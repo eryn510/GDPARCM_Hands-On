@@ -134,11 +134,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArrowObject.cpp" />
     <ClCompile Include="BGObject.cpp" />
+    <ClCompile Include="DataHandler.cpp" />
+    <ClCompile Include="DeleterThread.cpp" />
     <ClCompile Include="FPSCounter.cpp" />
     <ClCompile Include="IconObject.cpp" />
     <ClCompile Include="IETSemaphore.cpp" />
     <ClCompile Include="IETThread.cpp" />
+    <ClCompile Include="InserterThread.cpp" />
     <ClCompile Include="IWorkerAction.cpp" />
     <ClCompile Include="MainLoop.cpp" />
     <ClCompile Include="main.cpp" />
@@ -146,6 +150,7 @@
     <ClCompile Include="MathUtils.cpp" />
     <ClCompile Include="ObjectManager.cpp" />
     <ClCompile Include="PoolWorkerThread.cpp" />
+    <ClCompile Include="SearcherThread.cpp" />
     <ClCompile Include="StreamAssetLoader.cpp" />
     <ClCompile Include="StringUtils.cpp" />
     <ClCompile Include="TextureDisplay.cpp" />
@@ -153,18 +158,23 @@
     <ClCompile Include="ThreadPool.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ArrowObject.h" />
     <ClInclude Include="BGObject.h" />
+    <ClInclude Include="DataHandler.h" />
+    <ClInclude Include="DeleterThread.h" />
     <ClInclude Include="FPSCounter.h" />
     <ClInclude Include="IconObject.h" />
     <ClInclude Include="IETSemaphore.h" />
     <ClInclude Include="IETThread.h" />
     <ClInclude Include="IExecutionEvent.h" />
+    <ClInclude Include="InserterThread.h" />
     <ClInclude Include="IWorkerAction.h" />
     <ClInclude Include="MainLoop.h" />
     <ClInclude Include="AObject.h" />
     <ClInclude Include="MathUtils.h" />
     <ClInclude Include="ObjectManager.h" />
     <ClInclude Include="PoolWorkerThread.h" />
+    <ClInclude Include="SearcherThread.h" />
     <ClInclude Include="StreamAssetLoader.h" />
     <ClInclude Include="StringUtils.h" />
     <ClInclude Include="TextureDisplay.h" />

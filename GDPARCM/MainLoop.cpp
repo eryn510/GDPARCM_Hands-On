@@ -14,8 +14,8 @@ MainLoop::MainLoop() : mWindow(sf::VideoMode(WINDOW_WIDTH, WINDOW_HEIGHT), "SFML
     TextureManager::getInstance()->loadFromAssetList();
 
     //load objects
-    BGObject* bgObject = new BGObject("BGObject");
-    ObjectManager::getInstance()->addObject(bgObject);
+    //BGObject* bgObject = new BGObject("BGObject");
+    //ObjectManager::getInstance()->addObject(bgObject);
 
     TextureDisplay* display = new TextureDisplay();
     ObjectManager::getInstance()->addObject(display);

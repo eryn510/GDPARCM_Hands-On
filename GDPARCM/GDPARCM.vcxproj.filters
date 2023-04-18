@@ -19,6 +19,15 @@
     <Filter Include="Engine\Pooling\Threading">
       <UniqueIdentifier>{1755ba02-6c17-4ada-91f8-edc58a85a0db}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Hands-On">
+      <UniqueIdentifier>{9e1793fd-95ee-4933-a71c-42638812562c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hands-On\Threads">
+      <UniqueIdentifier>{ae127453-0f99-4ce6-85f2-f28ddfc93958}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hands-On\Data">
+      <UniqueIdentifier>{e43b0fa1-dd93-4d7e-8a32-80f9921f4f85}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MainLoop.cpp">
@@ -72,6 +81,21 @@
     <ClCompile Include="IETSemaphore.cpp">
       <Filter>Engine\Pooling\Threading</Filter>
     </ClCompile>
+    <ClCompile Include="InserterThread.cpp">
+      <Filter>Hands-On\Threads</Filter>
+    </ClCompile>
+    <ClCompile Include="DeleterThread.cpp">
+      <Filter>Hands-On\Threads</Filter>
+    </ClCompile>
+    <ClCompile Include="SearcherThread.cpp">
+      <Filter>Hands-On\Threads</Filter>
+    </ClCompile>
+    <ClCompile Include="DataHandler.cpp">
+      <Filter>Hands-On\Data</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrowObject.cpp">
+      <Filter>Engine\Object</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MainLoop.h">
@@ -124,6 +148,21 @@
     </ClInclude>
     <ClInclude Include="IETSemaphore.h">
       <Filter>Engine\Pooling\Threading</Filter>
+    </ClInclude>
+    <ClInclude Include="InserterThread.h">
+      <Filter>Hands-On\Threads</Filter>
+    </ClInclude>
+    <ClInclude Include="DeleterThread.h">
+      <Filter>Hands-On\Threads</Filter>
+    </ClInclude>
+    <ClInclude Include="SearcherThread.h">
+      <Filter>Hands-On\Threads</Filter>
+    </ClInclude>
+    <ClInclude Include="DataHandler.h">
+      <Filter>Hands-On\Data</Filter>
+    </ClInclude>
+    <ClInclude Include="ArrowObject.h">
+      <Filter>Engine\Object</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

@@ -29,6 +29,7 @@ private:
 	int numDisplayed = 0;
 	const int MAX_COLUMN = 28;
 	const int MAX_ROW = 22;
+	int maxLoad = 20;
 
 	void spawnObject();
 

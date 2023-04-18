@@ -9,6 +9,7 @@ public:
 
 public:
 	sf::Sprite* getSprite();
+	int getIndex();
 
 private:
 	int textureIndex = 0;

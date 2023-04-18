@@ -22,3 +22,8 @@ sf::Sprite* IconObject::getSprite()
 {
 	return this->sprite;
 }
+
+int IconObject::getIndex()
+{
+	return this->textureIndex;
+}

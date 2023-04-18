@@ -3,7 +3,7 @@
 
 AObject::AObject(std::string name) : name(name)
 {
-
+	this->isActive = true;
 }
 
 AObject::~AObject() 
@@ -23,7 +23,8 @@ void AObject::Draw(sf::RenderWindow* targetWindow, sf::RenderStates renderStates
 	if (this->sprite != NULL) {
 		this->sprite->setPosition(this->posX, this->posY);
 		this->sprite->setScale(this->scaleX, this->scaleY);
-		targetWindow->draw(*this->sprite);
+		if (isActive)
+			targetWindow->draw(*this->sprite);
 	}
 }
 
@@ -62,6 +63,16 @@ sf::Vector2f AObject::getPosition()
 sf::Vector2f AObject::getScale()
 {
 	return this->sprite->getScale();
+}
+
+void AObject::setActive(bool active)
+{
+	this->isActive = active;
+}
+
+bool AObject::getActive()
+{
+	return this->isActive;
 }
 
 sf::FloatRect AObject::getLocalBounds()
