@@ -74,7 +74,7 @@ void TextureDisplay::spawnObject()
 
 	if (iconObj->getIndex() == maxLoad - 1) 
 	{
-		data->initializeThreads(2,4);
+		data->initializeThreads(4,2);
 	}
 }
 
