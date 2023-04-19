@@ -4,6 +4,7 @@
 #include "ArrowObject.h"
 #include "ObjectManager.h"
 #include <random>
+#include <fstream>
 
 DeleterThread::DeleterThread(int id, int holderIndex)
 {
@@ -43,8 +44,16 @@ void DeleterThread::run()
 		data->displayList.erase(data->displayList.begin() + randNum);
 		data->displayBank.push(icon);
 
+		//Append Deleter cout to txt file
+		std::ofstream ofs("logs.txt", std::ios::app);
+		std::streambuf* old_cout_buf = std::cout.rdbuf();
+		std::cout.rdbuf(ofs.rdbuf());
+
 		std::cout << "\n ==================== DELETER ==================== " << std::endl;
 		std::cout << "\nDeleted at index: " << randNum << std::endl;
+
+		std::cout.rdbuf(old_cout_buf);
+		ofs.close();
 
 		icon->setActive(false);
 

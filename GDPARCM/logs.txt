@@ -1,0 +1,108 @@
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 6
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 6
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 9
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 9
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 4
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 6
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 6
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 9
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 9
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 3

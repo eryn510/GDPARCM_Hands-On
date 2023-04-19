@@ -2,6 +2,7 @@
 #include "DeleterThread.h"
 #include "InserterThread.h"
 #include "SearcherThread.h"
+#include <fstream>
 
 //a singleton class
 DataHandler* DataHandler::sharedInstance = NULL;
@@ -60,6 +61,10 @@ void DataHandler::initializeThreads(int searcherCount, int inserterCount)
 	mutex = new IETSemaphore(1);
 
 	int counter = 0;
+
+	//Clear txt file every run
+	std::ofstream ofs("logs.txt", std::ios::trunc);
+	ofs.close();
 
 	//Initialize Searchers
 	for (int i = 0; i < searcherCount; i++) 

@@ -3,6 +3,7 @@
 #include "IconObject.h"
 #include "ArrowObject.h"
 #include "ObjectManager.h"
+#include <fstream>
 
 InserterThread::InserterThread(int id, int holderIndex)
 {
@@ -44,8 +45,16 @@ void InserterThread::run()
 		data->DataList[index].occupied = true;
 		data->displayList.insert(data->displayList.begin() + index, icon);
 
+		//Append Inserter cout to txt file
+		std::ofstream ofs("logs.txt", std::ios::app);
+		std::streambuf* old_cout_buf = std::cout.rdbuf();
+		std::cout.rdbuf(ofs.rdbuf());
+
 		std::cout << "\n ==================== INSERTER ==================== " << std::endl;
 		std::cout << "\nInserter Index: " << this->id << "\nInserted at index: " << index << std::endl;
+
+		std::cout.rdbuf(old_cout_buf);
+		ofs.close();
 
 		data->displayBank.pop();
 
