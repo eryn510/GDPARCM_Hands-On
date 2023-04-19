@@ -56,6 +56,9 @@ void InserterThread::run()
 		std::cout.rdbuf(old_cout_buf);
 		ofs.close();
 
+		std::cout << "\n ==================== INSERTER ==================== " << std::endl;
+		std::cout << "\nInserter Index: " << this->id << "\nInserted at index: " << index << std::endl;
+
 		data->displayBank.pop();
 
 		icon->setActive(true);

@@ -1,6 +1,24 @@
 
  ==================== DELETER ==================== 
 
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
 Deleted at index: 3
 
  ==================== INSERTER ==================== 
@@ -19,12 +37,642 @@ Inserted at index: 7
 
  ==================== DELETER ==================== 
 
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 4
+
+ ==================== DELETER ==================== 
+
 Deleted at index: 7
 
  ==================== INSERTER ==================== 
 
 Inserter Index: 0
 Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 6
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 6
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 4
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 6
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 6
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 4
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 9
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 9
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 4
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 4
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 9
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 9
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 4
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 6
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 6
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 6
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 6
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 9
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 9
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 9
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 9
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 1
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 1
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 1
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 1
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 6
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 6
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 1
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 1
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 9
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 9
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 4
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 4
 
  ==================== DELETER ==================== 
 
@@ -46,21 +694,21 @@ Inserted at index: 6
 
  ==================== DELETER ==================== 
 
-Deleted at index: 9
+Deleted at index: 4
 
  ==================== INSERTER ==================== 
 
 Inserter Index: 1
-Inserted at index: 9
+Inserted at index: 4
 
  ==================== DELETER ==================== 
 
-Deleted at index: 8
+Deleted at index: 2
 
  ==================== INSERTER ==================== 
 
 Inserter Index: 0
-Inserted at index: 8
+Inserted at index: 2
 
  ==================== DELETER ==================== 
 
@@ -82,12 +730,174 @@ Inserted at index: 4
 
  ==================== DELETER ==================== 
 
-Deleted at index: 6
+Deleted at index: 9
 
  ==================== INSERTER ==================== 
 
 Inserter Index: 1
+Inserted at index: 9
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 4
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 9
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 9
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 1
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 1
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 6
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
 Inserted at index: 6
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 4
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 4
 
  ==================== DELETER ==================== 
 
@@ -97,6 +907,924 @@ Deleted at index: 9
 
 Inserter Index: 0
 Inserted at index: 9
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 1
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 1
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 1
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 1
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 4
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 4
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 6
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 6
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 1
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 1
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 6
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 6
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 1
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 1
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 1
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 1
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 6
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 6
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 4
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 9
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 9
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 4
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 9
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 9
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 1
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 1
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 4
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 6
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 6
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 4
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 9
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 9
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 6
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 6
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 4
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 4
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 9
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 9
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 8
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 8
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 6
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 6
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 1
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 1
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 6
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 6
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 6
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 6
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 2
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 1
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 1
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 0
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 0
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 4
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 4
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 7
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 7
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 6
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 6
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 5
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 5
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 3
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 3
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 9
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 1
+Inserted at index: 9
+
+ ==================== DELETER ==================== 
+
+Deleted at index: 2
+
+ ==================== INSERTER ==================== 
+
+Inserter Index: 0
+Inserted at index: 2
 
  ==================== DELETER ==================== 
 

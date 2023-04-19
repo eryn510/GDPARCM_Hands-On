@@ -55,6 +55,9 @@ void DeleterThread::run()
 		std::cout.rdbuf(old_cout_buf);
 		ofs.close();
 
+		std::cout << "\n ==================== DELETER ==================== " << std::endl;
+		std::cout << "\nDeleted at index: " << randNum << std::endl;
+
 		icon->setActive(false);
 
 		data->DataList[randNum].iconRef = nullptr;
