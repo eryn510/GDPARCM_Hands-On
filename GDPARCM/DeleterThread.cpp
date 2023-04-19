@@ -3,6 +3,7 @@
 #include "IconObject.h"
 #include "ArrowObject.h"
 #include "ObjectManager.h"
+#include <random>
 
 DeleterThread::DeleterThread(int id, int holderIndex)
 {
@@ -18,21 +19,23 @@ void DeleterThread::run()
 	arrow->setPosition(data->ArrowList[holderIndex][0].posX, data->ArrowList[holderIndex][0].posY);
 	ObjectManager::getInstance()->addObject(arrow);
 
+	system("cls");
+
 	while (true) 
 	{
-		IETThread::sleep(1000);
+		IETThread::sleep(500);
 
 		//Semaphore Acquire
 		data->mutex->acquire();
 
+		static thread_local std::mt19937 generator(std::random_device{}());
+		std::uniform_int_distribution<int> distribution(0, 9);
 
-		srand(time(NULL));
-
-		int randNum = rand() % data->DataList.size();
+		int randNum = distribution(generator);
 
 		while (data->DataList[randNum].occupied == false) 
 		{
-			randNum = rand() % data->DataList.size();
+			randNum = distribution(generator);
 		}
 
 		IconObject* icon = data->DataList[randNum].iconRef;

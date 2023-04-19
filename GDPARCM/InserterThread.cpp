@@ -35,7 +35,6 @@ void InserterThread::run()
 			}
 		}
 
-
 		IconObject* icon = data->displayBank.front();
 
 		icon->setPosition(data->DataList[index].posX, data->DataList[index].posY);

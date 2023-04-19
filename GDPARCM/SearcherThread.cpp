@@ -2,6 +2,7 @@
 #include "DataHandler.h"
 #include "ArrowObject.h"
 #include "ObjectManager.h"
+#include <random>
 
 SearcherThread::SearcherThread(int id, int holderIndex)
 {
@@ -19,21 +20,20 @@ void SearcherThread::run()
 	
 	while (true) 
 	{
-		IETThread::sleep(500);
-		
-		srand(time(NULL));
+		static thread_local std::mt19937 generator(std::random_device{}());
+		std::uniform_int_distribution<int> distribution(0, 9);
 
-		int randNum = rand() % data->DataList.size();
 		int traverser = 0;
+		int randNumber = distribution(generator);
 
 		for (traverser = 0; traverser < data->DataList.size(); traverser++)
 		{
+			//Sleep for arrow traverse
 			IETThread::sleep(250);
 			arrow->setPosition(data->ArrowList[holderIndex][traverser].posX, data->ArrowList[holderIndex][traverser].posY);
-			//std::cout << "Traversing Number: " << traverser << std::endl;
-			//std::cout << "Index Number: " << this->id << std::endl;
-			if (traverser == randNum) 
+			if (traverser == randNumber)
 			{
+				//Sleep for traversal stop
 				IETThread::sleep(500);
 				break;
 			}
